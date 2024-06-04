@@ -1428,3 +1428,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.04-15.11.21:840][687]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2024.06.04-15.11.27:486][938]LogSlate: Window 'Content Browser' being destroyed
 [2024.06.04-15.11.27:490][938]LogSlate: Window 'Content Browser' being destroyed
+[2024.06.04-15.12.54:043][422]LogDerivedDataCache: C:/Users/paulo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.075 and deleted 0 files with total size 0 MiB and 78 empty folders. Scanned 391 files in 785 folders with total size 3 MiB.
